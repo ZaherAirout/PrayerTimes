@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">أوقات الصلاة - دمشق</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">أوقات الصلاة في دمشق</string>
+    <string name="time">الوقت</string>
+    <string name="remaining">المتبقي</string>
+    <string name="alfajr">الفجر</string>
+    <string name="alzuhr">الظهر</string>
+    <string name="alasr">العصر</string>
+    <string name="almughreb">المغرب</string>
+    <string name="aleshaa">العشاء</string>
+    <string name="empty">فارغ</string>
+
+</resources>
